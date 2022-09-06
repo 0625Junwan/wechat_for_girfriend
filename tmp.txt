@@ -14,8 +14,8 @@
 
 ===家乡:{{city2.DATA}} 天气:{{weather2.DATA}}===
 
-今天是我们恋爱的{{love_days.DATA}}天
-距离我们的恋爱日还有{{yd.DATA}}天
+今天是我们恋爱🌹的{{love_days.DATA}}天
+距离我们的恋爱日🌹还有{{yd.DATA}}天
 
 距离小高同学❤的生日还有{{birthday_lover.DATA}}天
 距离小张同学❤的生日还有{{birthday_my.DATA}}天
